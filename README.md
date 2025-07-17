@@ -42,4 +42,12 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
