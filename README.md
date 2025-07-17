@@ -54,5 +54,6 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/kishore-ranganathan/LeetCode/tree/master/0176-second-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/kishore-ranganathan/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1734-bank-account-summary-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/1734-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
