@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/kishore-ranganathan/LeetCode/tree/master/0101-symmetric-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kishore-ranganathan/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/kishore-ranganathan/LeetCode/tree/master/0101-symmetric-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kishore-ranganathan/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 | [0176-second-highest-salary](https://github.com/kishore-ranganathan/LeetCode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/kishore-ranganathan/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1734-bank-account-summary-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/1734-bank-account-summary-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/kishore-ranganathan/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
