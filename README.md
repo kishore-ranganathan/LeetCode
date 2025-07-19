@@ -25,6 +25,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/kishore-ranganathan/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/kishore-ranganathan/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Number Theory
 |  |
 | ------- |
