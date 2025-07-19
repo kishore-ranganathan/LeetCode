@@ -24,6 +24,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Math
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
+## Number Theory
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 <!---LeetCode Topics End-->
