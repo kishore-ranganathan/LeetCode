@@ -62,4 +62,16 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/kishore-ranganathan/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
