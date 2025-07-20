@@ -64,6 +64,7 @@
 | [0196-delete-duplicate-emails](https://github.com/kishore-ranganathan/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1670-patients-with-a-condition](https://github.com/kishore-ranganathan/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/1734-bank-account-summary-ii) |
+| [1811-fix-names-in-a-table](https://github.com/kishore-ranganathan/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/kishore-ranganathan/LeetCode/tree/master/1827-invalid-tweets) |
 | [2041-the-latest-login-in-2020](https://github.com/kishore-ranganathan/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/kishore-ranganathan/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
