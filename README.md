@@ -25,6 +25,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kishore-ranganathan/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -89,11 +90,13 @@
 ## Math
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kishore-ranganathan/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Divide and Conquer
 |  |
