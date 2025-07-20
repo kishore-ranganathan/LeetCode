@@ -62,6 +62,7 @@
 | [0176-second-highest-salary](https://github.com/kishore-ranganathan/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/kishore-ranganathan/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/kishore-ranganathan/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [1670-patients-with-a-condition](https://github.com/kishore-ranganathan/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/kishore-ranganathan/LeetCode/tree/master/1827-invalid-tweets) |
 | [2041-the-latest-login-in-2020](https://github.com/kishore-ranganathan/LeetCode/tree/master/2041-the-latest-login-in-2020) |
