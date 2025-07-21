@@ -81,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/kishore-ranganathan/LeetCode/tree/master/0058-length-of-last-word) |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
