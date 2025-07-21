@@ -94,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kishore-ranganathan/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -114,4 +115,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
