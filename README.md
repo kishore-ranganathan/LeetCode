@@ -99,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kishore-ranganathan/LeetCode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
