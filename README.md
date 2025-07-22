@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kishore-ranganathan/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kishore-ranganathan/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/kishore-ranganathan/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
