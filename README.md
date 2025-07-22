@@ -105,6 +105,7 @@
 | [0007-reverse-integer](https://github.com/kishore-ranganathan/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/kishore-ranganathan/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kishore-ranganathan/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kishore-ranganathan/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -130,6 +131,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kishore-ranganathan/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0029-divide-two-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kishore-ranganathan/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
