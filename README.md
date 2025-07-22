@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/kishore-ranganathan/LeetCode/tree/master/0050-powx-n) |
 ## Database
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kishore-ranganathan/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/kishore-ranganathan/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/kishore-ranganathan/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
