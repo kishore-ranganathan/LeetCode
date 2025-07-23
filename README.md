@@ -113,6 +113,7 @@
 | [0062-unique-paths](https://github.com/kishore-ranganathan/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kishore-ranganathan/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kishore-ranganathan/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kishore-ranganathan/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
