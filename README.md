@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kishore-ranganathan/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kishore-ranganathan/LeetCode/tree/master/0027-remove-element) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kishore-ranganathan/LeetCode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
