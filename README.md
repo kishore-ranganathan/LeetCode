@@ -78,6 +78,7 @@
 | [0197-rising-temperature](https://github.com/kishore-ranganathan/LeetCode/tree/master/0197-rising-temperature) |
 | [0585-investments-in-2016](https://github.com/kishore-ranganathan/LeetCode/tree/master/0585-investments-in-2016) |
 | [0610-triangle-judgement](https://github.com/kishore-ranganathan/LeetCode/tree/master/0610-triangle-judgement) |
+| [1415-students-and-examinations](https://github.com/kishore-ranganathan/LeetCode/tree/master/1415-students-and-examinations) |
 | [1670-patients-with-a-condition](https://github.com/kishore-ranganathan/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1811-fix-names-in-a-table](https://github.com/kishore-ranganathan/LeetCode/tree/master/1811-fix-names-in-a-table) |
