@@ -26,6 +26,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kishore-ranganathan/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/kishore-ranganathan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -100,6 +101,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kishore-ranganathan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -142,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kishore-ranganathan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/kishore-ranganathan/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -157,6 +160,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kishore-ranganathan/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/kishore-ranganathan/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,4 +173,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kishore-ranganathan/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kishore-ranganathan/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
