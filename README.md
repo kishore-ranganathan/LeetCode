@@ -38,6 +38,7 @@
 | [0220-contains-duplicate-iii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/kishore-ranganathan/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/kishore-ranganathan/LeetCode/tree/master/0792-binary-search) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -53,6 +54,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/kishore-ranganathan/LeetCode/tree/master/0792-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
