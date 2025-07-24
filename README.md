@@ -42,6 +42,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
@@ -120,6 +121,7 @@
 | [0058-length-of-last-word](https://github.com/kishore-ranganathan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0742-to-lower-case](https://github.com/kishore-ranganathan/LeetCode/tree/master/0742-to-lower-case) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kishore-ranganathan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kishore-ranganathan/LeetCode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
