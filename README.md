@@ -44,6 +44,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2737-row-with-maximum-ones](https://github.com/kishore-ranganathan/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
@@ -233,6 +234,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2737-row-with-maximum-ones](https://github.com/kishore-ranganathan/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
