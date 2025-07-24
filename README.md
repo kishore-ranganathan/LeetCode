@@ -111,6 +111,7 @@
 | [1811-fix-names-in-a-table](https://github.com/kishore-ranganathan/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/kishore-ranganathan/LeetCode/tree/master/1827-invalid-tweets) |
 | [2041-the-latest-login-in-2020](https://github.com/kishore-ranganathan/LeetCode/tree/master/2041-the-latest-login-in-2020) |
+| [2057-count-salary-categories](https://github.com/kishore-ranganathan/LeetCode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/kishore-ranganathan/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3530-odd-and-even-transactions](https://github.com/kishore-ranganathan/LeetCode/tree/master/3530-odd-and-even-transactions) |
 ## Binary Search Tree
