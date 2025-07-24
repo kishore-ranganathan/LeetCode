@@ -40,6 +40,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/kishore-ranganathan/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2058-concatenation-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kishore-ranganathan/LeetCode/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kishore-ranganathan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
