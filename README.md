@@ -115,6 +115,7 @@
 | [2127-employees-whose-manager-left-the-company](https://github.com/kishore-ranganathan/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kishore-ranganathan/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3530-odd-and-even-transactions](https://github.com/kishore-ranganathan/LeetCode/tree/master/3530-odd-and-even-transactions) |
+| [3803-find-products-with-valid-serial-numbers](https://github.com/kishore-ranganathan/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
