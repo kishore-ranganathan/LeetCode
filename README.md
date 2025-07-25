@@ -43,6 +43,7 @@
 | [1791-richest-customer-wealth](https://github.com/kishore-ranganathan/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2737-row-with-maximum-ones](https://github.com/kishore-ranganathan/LeetCode/tree/master/2737-row-with-maximum-ones) |
@@ -62,6 +63,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/kishore-ranganathan/LeetCode/tree/master/0792-binary-search) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bucket Sort
 |  |
 | ------- |
