@@ -178,6 +178,7 @@
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kishore-ranganathan/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/kishore-ranganathan/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kishore-ranganathan/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -287,4 +288,8 @@
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/kishore-ranganathan/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
