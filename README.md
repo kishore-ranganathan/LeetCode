@@ -106,6 +106,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kishore-ranganathan/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/kishore-ranganathan/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
@@ -173,6 +174,7 @@
 | [0066-plus-one](https://github.com/kishore-ranganathan/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kishore-ranganathan/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/kishore-ranganathan/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kishore-ranganathan/LeetCode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
@@ -243,6 +245,7 @@
 | [0029-divide-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/kishore-ranganathan/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
