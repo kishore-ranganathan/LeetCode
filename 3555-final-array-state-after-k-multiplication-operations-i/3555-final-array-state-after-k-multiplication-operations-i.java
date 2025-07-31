@@ -8,8 +8,7 @@ class Solution {
                 if(max > nums[i]) {
                     max = nums[i];
                     ind = i;
-                }
-                
+                } 
             }
             System.out.print(max+" ");
             System.out.println(max*multiplier+" ");
