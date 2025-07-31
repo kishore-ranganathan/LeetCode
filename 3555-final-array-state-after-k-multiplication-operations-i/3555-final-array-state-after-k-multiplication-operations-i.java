@@ -10,9 +10,6 @@ class Solution {
                     ind = i;
                 } 
             }
-            System.out.print(max+" ");
-            System.out.println(max*multiplier+" ");
-
             nums[ind] = max*multiplier;
         }
         return nums;
