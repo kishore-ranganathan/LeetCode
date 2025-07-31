@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/kishore-ranganathan/LeetCode/tree/master/0101-symmetric-tree) |
+| [0279-perfect-squares](https://github.com/kishore-ranganathan/LeetCode/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kishore-ranganathan/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kishore-ranganathan/LeetCode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/kishore-ranganathan/LeetCode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kishore-ranganathan/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -221,6 +223,7 @@
 | [0042-trapping-rain-water](https://github.com/kishore-ranganathan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/kishore-ranganathan/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/kishore-ranganathan/LeetCode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
