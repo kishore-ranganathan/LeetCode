@@ -185,6 +185,7 @@
 | [0279-perfect-squares](https://github.com/kishore-ranganathan/LeetCode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kishore-ranganathan/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kishore-ranganathan/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -229,11 +230,13 @@
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/kishore-ranganathan/LeetCode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
