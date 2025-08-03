@@ -3,7 +3,7 @@ class Solution {
         int n = score.length;
         int[][] sortedPairs = new int[n][2];
         for (int i = 0 ; i < n ; i++) sortedPairs[i] = new int[] {i, score[i]};
-        Arrays.sort(sortedPair, (x, y) -> (y[1] - x[1]));
+        Arrays.sort(sortedPairs, (x, y) -> (y[1] - x[1]));
         String[] ans = new String[n];
         for (int i = 0 ; i < n ; i++) { 
             if (i == 0)   ans[sortedPairs[i][0]] = "Gold Medal";
