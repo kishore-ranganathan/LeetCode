@@ -43,6 +43,7 @@
 | [0238-product-of-array-except-self](https://github.com/kishore-ranganathan/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0506-relative-ranks](https://github.com/kishore-ranganathan/LeetCode/tree/master/0506-relative-ranks) |
+| [0777-toeplitz-matrix](https://github.com/kishore-ranganathan/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/kishore-ranganathan/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/kishore-ranganathan/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -295,6 +296,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0777-toeplitz-matrix](https://github.com/kishore-ranganathan/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1791-richest-customer-wealth](https://github.com/kishore-ranganathan/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/kishore-ranganathan/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
