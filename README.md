@@ -61,6 +61,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kishore-ranganathan/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/kishore-ranganathan/LeetCode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/kishore-ranganathan/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kishore-ranganathan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -318,4 +322,8 @@
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kishore-ranganathan/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
