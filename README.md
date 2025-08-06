@@ -134,6 +134,7 @@
 | [0585-investments-in-2016](https://github.com/kishore-ranganathan/LeetCode/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/kishore-ranganathan/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/kishore-ranganathan/LeetCode/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/kishore-ranganathan/LeetCode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/kishore-ranganathan/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kishore-ranganathan/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
