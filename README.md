@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kishore-ranganathan/LeetCode/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/kishore-ranganathan/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kishore-ranganathan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -203,6 +204,7 @@
 | [0371-sum-of-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1806-count-of-matches-in-tournament](https://github.com/kishore-ranganathan/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kishore-ranganathan/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kishore-ranganathan/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
