@@ -150,6 +150,7 @@
 | [1734-bank-account-summary-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1811-fix-names-in-a-table](https://github.com/kishore-ranganathan/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/kishore-ranganathan/LeetCode/tree/master/1827-invalid-tweets) |
+| [1948-rearrange-products-table](https://github.com/kishore-ranganathan/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/kishore-ranganathan/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/kishore-ranganathan/LeetCode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/kishore-ranganathan/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
