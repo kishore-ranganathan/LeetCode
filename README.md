@@ -58,6 +58,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore-ranganathan/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2737-row-with-maximum-ones](https://github.com/kishore-ranganathan/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -209,6 +210,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kishore-ranganathan/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/kishore-ranganathan/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore-ranganathan/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kishore-ranganathan/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kishore-ranganathan/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -308,6 +310,7 @@
 | [0169-majority-element](https://github.com/kishore-ranganathan/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore-ranganathan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore-ranganathan/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -322,6 +325,7 @@
 | [0169-majority-element](https://github.com/kishore-ranganathan/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore-ranganathan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore-ranganathan/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String Matching
 |  |
 | ------- |
