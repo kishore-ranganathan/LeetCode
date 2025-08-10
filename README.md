@@ -221,6 +221,7 @@
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/kishore-ranganathan/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -344,4 +345,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
