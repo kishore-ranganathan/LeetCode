@@ -101,6 +101,7 @@
 | [0506-relative-ranks](https://github.com/kishore-ranganathan/LeetCode/tree/master/0506-relative-ranks) |
 | [1019-squares-of-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2650-split-with-minimum-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/2650-split-with-minimum-sum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore-ranganathan/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kishore-ranganathan/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kishore-ranganathan/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2650-split-with-minimum-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2998-count-symmetric-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -353,4 +355,8 @@
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [2650-split-with-minimum-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/2650-split-with-minimum-sum) |
 <!---LeetCode Topics End-->
