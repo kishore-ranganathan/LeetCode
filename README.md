@@ -49,6 +49,7 @@
 | [0506-relative-ranks](https://github.com/kishore-ranganathan/LeetCode/tree/master/0506-relative-ranks) |
 | [0777-toeplitz-matrix](https://github.com/kishore-ranganathan/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/kishore-ranganathan/LeetCode/tree/master/0792-binary-search) |
+| [0944-smallest-range-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/kishore-ranganathan/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1791-richest-customer-wealth](https://github.com/kishore-ranganathan/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -206,6 +207,7 @@
 | [0258-add-digits](https://github.com/kishore-ranganathan/LeetCode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/kishore-ranganathan/LeetCode/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0944-smallest-range-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kishore-ranganathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
