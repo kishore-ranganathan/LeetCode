@@ -146,6 +146,7 @@
 | [0626-exchange-seats](https://github.com/kishore-ranganathan/LeetCode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/kishore-ranganathan/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/kishore-ranganathan/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1174-sales-analysis-iii](https://github.com/kishore-ranganathan/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1301-reformat-department-table](https://github.com/kishore-ranganathan/LeetCode/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/kishore-ranganathan/LeetCode/tree/master/1415-students-and-examinations) |
