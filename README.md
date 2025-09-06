@@ -236,6 +236,7 @@
 | [3515-find-if-digit-game-can-be-won](https://github.com/kishore-ranganathan/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3830-find-closest-person](https://github.com/kishore-ranganathan/LeetCode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
