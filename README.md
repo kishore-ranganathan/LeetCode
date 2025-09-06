@@ -216,6 +216,7 @@
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kishore-ranganathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/kishore-ranganathan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/kishore-ranganathan/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -371,5 +372,6 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1448-maximum-69-number) |
 | [2650-split-with-minimum-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/2650-split-with-minimum-sum) |
 <!---LeetCode Topics End-->
