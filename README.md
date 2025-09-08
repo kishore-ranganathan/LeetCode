@@ -216,6 +216,7 @@
 | [0944-smallest-range-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kishore-ranganathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/kishore-ranganathan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
