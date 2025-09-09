@@ -63,6 +63,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore-ranganathan/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/kishore-ranganathan/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2722-prime-in-diagonal](https://github.com/kishore-ranganathan/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/kishore-ranganathan/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -233,6 +234,7 @@
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kishore-ranganathan/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kishore-ranganathan/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2650-split-with-minimum-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/2650-split-with-minimum-sum) |
+| [2722-prime-in-diagonal](https://github.com/kishore-ranganathan/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/kishore-ranganathan/LeetCode/tree/master/2752-sum-multiples) |
 | [2998-count-symmetric-integers](https://github.com/kishore-ranganathan/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -251,6 +253,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/kishore-ranganathan/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kishore-ranganathan/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2722-prime-in-diagonal](https://github.com/kishore-ranganathan/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Divide and Conquer
 |  |
@@ -346,6 +349,7 @@
 | [0777-toeplitz-matrix](https://github.com/kishore-ranganathan/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/kishore-ranganathan/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2722-prime-in-diagonal](https://github.com/kishore-ranganathan/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/kishore-ranganathan/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
