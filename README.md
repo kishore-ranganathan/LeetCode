@@ -105,6 +105,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2650-split-with-minimum-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/2650-split-with-minimum-sum) |
+| [2887-sort-vowels-in-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kishore-ranganathan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
