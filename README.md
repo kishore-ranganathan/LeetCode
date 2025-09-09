@@ -52,6 +52,7 @@
 | [0944-smallest-range-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/kishore-ranganathan/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1677-matrix-diagonal-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/kishore-ranganathan/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -343,6 +344,7 @@
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/kishore-ranganathan/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/kishore-ranganathan/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/kishore-ranganathan/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
