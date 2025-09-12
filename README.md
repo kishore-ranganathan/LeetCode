@@ -155,6 +155,7 @@
 | [1174-sales-analysis-iii](https://github.com/kishore-ranganathan/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1301-reformat-department-table](https://github.com/kishore-ranganathan/LeetCode/tree/master/1301-reformat-department-table) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/kishore-ranganathan/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/kishore-ranganathan/LeetCode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/kishore-ranganathan/LeetCode/tree/master/1452-restaurant-growth) |
 | [1664-find-users-with-valid-e-mails](https://github.com/kishore-ranganathan/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
