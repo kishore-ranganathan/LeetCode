@@ -66,6 +66,7 @@
 | [2722-prime-in-diagonal](https://github.com/kishore-ranganathan/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/kishore-ranganathan/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3373-maximum-prime-difference](https://github.com/kishore-ranganathan/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -86,6 +87,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/kishore-ranganathan/LeetCode/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/kishore-ranganathan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
@@ -108,6 +110,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2650-split-with-minimum-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2887-sort-vowels-in-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -309,6 +312,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kishore-ranganathan/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/kishore-ranganathan/LeetCode/tree/master/1168-duplicate-zeros) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kishore-ranganathan/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
