@@ -190,6 +190,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/kishore-ranganathan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore-ranganathan/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/kishore-ranganathan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
@@ -364,6 +366,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/kishore-ranganathan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore-ranganathan/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/kishore-ranganathan/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
