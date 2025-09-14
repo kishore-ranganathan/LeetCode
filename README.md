@@ -186,6 +186,7 @@
 | [0058-length-of-last-word](https://github.com/kishore-ranganathan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore-ranganathan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/kishore-ranganathan/LeetCode/tree/master/0742-to-lower-case) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kishore-ranganathan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -300,6 +301,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kishore-ranganathan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kishore-ranganathan/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kishore-ranganathan/LeetCode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2714-left-and-right-sum-differences](https://github.com/kishore-ranganathan/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kishore-ranganathan/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
