@@ -186,6 +186,7 @@
 | [0058-length-of-last-word](https://github.com/kishore-ranganathan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore-ranganathan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/kishore-ranganathan/LeetCode/tree/master/0742-to-lower-case) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/kishore-ranganathan/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/kishore-ranganathan/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kishore-ranganathan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -349,6 +350,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kishore-ranganathan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/kishore-ranganathan/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore-ranganathan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/kishore-ranganathan/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kishore-ranganathan/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kishore-ranganathan/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/kishore-ranganathan/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
