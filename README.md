@@ -186,6 +186,7 @@
 | [0058-length-of-last-word](https://github.com/kishore-ranganathan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/kishore-ranganathan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/kishore-ranganathan/LeetCode/tree/master/0742-to-lower-case) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/kishore-ranganathan/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kishore-ranganathan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/kishore-ranganathan/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kishore-ranganathan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
